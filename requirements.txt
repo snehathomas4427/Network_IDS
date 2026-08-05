@@ -1,0 +1,38 @@
+# Core Data Science
+numpy>=2.0
+pandas>=2.3
+
+# Machine Learning
+scikit-learn>=1.7
+xgboost>=3.0
+lightgbm>=4.6
+joblib>=1.5
+
+# Explainable AI
+shap>=0.49
+
+# Visualization
+matplotlib>=3.10
+plotly>=6.3
+
+# Dashboard
+streamlit>=1.49
+
+# Notebook
+jupyter>=1.1
+ipykernel>=6.30
+
+# Utilities
+tqdm>=4.67
+python-dotenv>=1.1
+
+# Code Quality
+black>=25.1
+ruff>=0.12
+
+# Optional (recommended)
+pyarrow>=21.0
+
+# python -m ipykernel install --user --name=ids-ml
+
+#statsmodel
